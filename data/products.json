@@ -1,0 +1,100 @@
+{
+  "plasma": {
+    "composition": [
+      { "labelKey": "row_moisture", "value": "6 ± 2%" },
+      { "labelKey": "row_protein", "value": "70 ± 2%" },
+      { "labelKey": "row_ash", "value": "17 ± 2%" },
+      { "labelKey": "row_fat", "value": "2 ± 0,5%" },
+      { "labelKey": "row_fiber", "value": "1 ± 0,5%" }
+    ],
+    "energy": [
+      { "labelKey": "row_gross_energy", "value": "18,5 ± 0,2" },
+      { "labelKey": "row_me_dogcat", "value": "11,5 ± 0,2" },
+      { "labelKey": "row_me_poultry", "value": "11,7 ± 0,2" },
+      { "labelKey": "row_me_pig", "value": "11,7 ± 0,2" },
+      { "labelKey": "row_net_energy_pig", "value": "6,6 ± 0,2" }
+    ],
+    "minerals": [
+      { "labelKey": "row_ca", "value": "0,09%" },
+      { "labelKey": "row_p", "value": "0,12%" },
+      { "labelKey": "row_na", "value": "6,00%" },
+      { "labelKey": "row_cl", "value": "3,75%" },
+      { "labelKey": "row_k", "value": "0,43%" },
+      { "labelKey": "row_s", "value": "0,20%" },
+      { "labelKey": "row_mg", "value": "0,02%" },
+      { "labelKey": "row_fe", "value": "80 ppm" },
+      { "labelKey": "row_zn", "value": "12 ppm" },
+      { "labelKey": "row_mn", "value": "3–5 ppm" },
+      { "labelKey": "row_cu", "value": "1–3 ppm" }
+    ],
+    "microbiology": [
+      { "labelKey": "row_salmonella", "valueKey": "val_absent" },
+      { "labelKey": "row_tapc", "valueKey": "val_tapc" },
+      { "labelKey": "row_entero", "valueKey": "val_entero" }
+    ],
+    "amino": [
+      { "labelKey": "amino_leucine", "value": "9.1%" },
+      { "labelKey": "amino_lysine", "value": "8.1%" },
+      { "labelKey": "amino_valine", "value": "6.3%" },
+      { "labelKey": "amino_arginine", "value": "5.6%" },
+      { "labelKey": "amino_phenylalanine", "value": "5.4%" },
+      { "labelKey": "amino_threonine", "value": "5.2%" },
+      { "labelKey": "amino_isoleucine", "value": "3.6%" },
+      { "labelKey": "amino_histidine", "value": "3.3%" },
+      { "labelKey": "amino_tryptophan", "value": "1.6%" },
+      { "labelKey": "amino_methionine", "value": "1.0%" },
+      { "labelKey": "amino_tyrosine", "value": "5.0%" },
+      { "labelKey": "amino_glycine", "value": "3.4%" },
+      { "labelKey": "amino_cystine", "value": "3.4%" }
+    ]
+  },
+  "hemoglobin": {
+    "composition": [
+      { "labelKey": "row_moisture", "value": "6 ± 2%" },
+      { "labelKey": "row_protein", "value": "92 ± 2%" },
+      { "labelKey": "row_ash", "value": "4 ± 1%" },
+      { "labelKey": "row_fat", "value": "0,4 ± 0,2%" },
+      { "labelKey": "row_fiber", "value": "0,5 ± 0,4%" }
+    ],
+    "energy": [
+      { "labelKey": "row_gross_energy", "value": "22,1 ± 0,2" },
+      { "labelKey": "row_me_dogcat", "value": "13,2 ± 0,2" },
+      { "labelKey": "row_me_poultry", "value": "14,4 ± 0,2" },
+      { "labelKey": "row_me_pig", "value": "19,1 ± 0,2" },
+      { "labelKey": "row_net_energy_pig", "value": "11,4 ± 0,2" }
+    ],
+    "minerals": [
+      { "labelKey": "row_ca", "value": "0,02%" },
+      { "labelKey": "row_p", "value": "0,30%" },
+      { "labelKey": "row_na", "value": "0,70%" },
+      { "labelKey": "row_cl", "value": "0,75%" },
+      { "labelKey": "row_k", "value": "1,00%" },
+      { "labelKey": "row_s", "value": "0,05%" },
+      { "labelKey": "row_mg", "value": "0,02%" },
+      { "labelKey": "row_fe", "value": "2850 ppm" },
+      { "labelKey": "row_zn", "value": "15–25 ppm" },
+      { "labelKey": "row_mn", "value": "1–3 ppm" },
+      { "labelKey": "row_cu", "value": "2–8 ppm" }
+    ],
+    "microbiology": [
+      { "labelKey": "row_salmonella", "valueKey": "val_absent" },
+      { "labelKey": "row_tapc", "valueKey": "val_tapc" },
+      { "labelKey": "row_entero", "valueKey": "val_entero" }
+    ],
+    "amino": [
+      { "labelKey": "amino_leucine", "value": "13.4%" },
+      { "labelKey": "amino_lysine", "value": "9.3%" },
+      { "labelKey": "amino_valine", "value": "9.2%" },
+      { "labelKey": "amino_phenylalanine", "value": "7.1%" },
+      { "labelKey": "amino_histidine", "value": "6.9%" },
+      { "labelKey": "amino_threonine", "value": "4.0%" },
+      { "labelKey": "amino_arginine", "value": "3.8%" },
+      { "labelKey": "amino_tryptophan", "value": "1.5%" },
+      { "labelKey": "amino_methionine", "value": "0.7%" },
+      { "labelKey": "amino_isoleucine", "value": "0.6%" },
+      { "labelKey": "amino_glycine", "value": "4.5%" },
+      { "labelKey": "amino_tyrosine", "value": "2.4%" },
+      { "labelKey": "amino_cystine", "value": "0.9%" }
+    ]
+  }
+}

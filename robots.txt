@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://denystykhonov26.github.io/intertekhkorm-website/sitemap.xml
